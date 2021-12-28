@@ -1,0 +1,2 @@
+body{background-color:#fadab0;padding:0;margin:0}.main-body{background-color:#0ff;top:50%;left:50%;position:absolute;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);padding:10px;text-align:center}.weather-main-info{background-color:#8a2be2}.temp{display:flex;justify-content:space-between}.temp>.today-date,.temp>.today-time{padding:0 20px;border:2px solid red;font-size:larger;color:#000;font-weight:700}.weather-extra-info{display:flex;justify-content:space-between;font-weight:600;text-align:center}
+/*# sourceMappingURL=main.0e87aa01.chunk.css.map */
